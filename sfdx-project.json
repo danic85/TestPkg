@@ -1,0 +1,43 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app/ext",
+            "default": false,
+            "package": "Appsolutely Test Package Ext",
+            "versionName": "Summer '20",
+            "versionDescription": "",
+            "versionNumber": "0.1.0.NEXT",
+            "definitionFile": "config/project-scratch-def.json",
+            "dependencies": [
+                {
+                    "package": "04t0J000000AqdAQAS"
+                }
+            ]
+        },
+        {
+            "path": "force-app/main",
+            "default": true,
+            "package": "Appsolutely Test Package",
+            "versionName": "Summer '20",
+            "versionDescription": "",
+            "versionNumber": "0.1.0.NEXT",
+            "definitionFile": "config/project-scratch-def.json"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "Appsolutely Test Package": "0Ho0J000000PAtkSAG",
+        "Appsolutely Test Package@0.1.0-1": "04t0J000000AqcMQAS",
+        "Appsolutely Test Package@0.1.0-2": "04t0J000000AqcgQAC",
+        "Appsolutely Test Package Ext": "0Ho0J000000PAtpSAG",
+        "Appsolutely Test Package Ext@0.1.0-1": "04t0J000000AqclQAC",
+        "Appsolutely Test Package@0.1.0-3": "04t0J000000AqcqQAC",
+        "Appsolutely Test Package Ext@0.1.0-2": "04t0J000000AqcvQAC",
+        "Appsolutely Test Package Ext@0.1.0-3": "04t0J000000Aqd0QAC",
+        "Appsolutely Test Package@0.1.0-4": "04t0J000000Aqd5QAC",
+        "Appsolutely Test Package@0.1.0-5": "04t0J000000AqdAQAS",
+        "Appsolutely Test Package Ext@0.1.0-4": "04t0J000000AqdFQAS"
+    }
+}
